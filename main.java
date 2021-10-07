@@ -31,7 +31,7 @@ public class main {
             System.out.println(firstNum/secondNum);
             break;
     default:
-    System.out.println("Invalid operator");
+    System.out.println("Invalid operator. Please try again");
 
 
        }
